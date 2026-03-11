@@ -5,4 +5,5 @@ venv/
 .DS_Store
 results/figures/*.png
 
+GITHUB_SETUP.md
 START_HERE.md

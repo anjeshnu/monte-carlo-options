@@ -90,7 +90,6 @@ monte-carlo-options/
 ## 👤 Author
 
 **Anjeshnu Trivedi**  
-CQF Module 3 Examination Project
 
 ## 📄 License
 

@@ -21,15 +21,15 @@ git init
 git add .
 git commit -m "Initial commit: Monte Carlo options pricing with multiple schemes"
 git branch -M main
-git remote add origin https://github.com/YOURUSERNAME/monte-carlo-options.git
+git remote add origin https://github.com/anjeshnu/monte-carlo-options.git
 git push -u origin main
 ```
 
-Replace `YOURUSERNAME` with your actual GitHub username.
+Replace `anjeshnu` with your actual GitHub username.
 
 ### Step 3: Verify
 
-Visit: `https://github.com/YOURUSERNAME/monte-carlo-options`
+Visit: `https://github.com/anjeshnu/monte-carlo-options`
 
 You should see:
 - ✅ README displaying nicely
